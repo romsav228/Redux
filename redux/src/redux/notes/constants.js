@@ -1,0 +1,3 @@
+export const SET_NOTES_DATA = 'SET/NOTES/DATA'
+export const SET_NOTES_LOADING = 'SET/NOTES/LOADING'
+export const SET_NOTES_ERROR = 'SET/NOTES/ERROR'
